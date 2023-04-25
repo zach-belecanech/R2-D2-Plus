@@ -1,0 +1,1 @@
+/home/easz/r2_ws/build/r6_d9/ament_cmake_core/r6_d9Config-version.cmake

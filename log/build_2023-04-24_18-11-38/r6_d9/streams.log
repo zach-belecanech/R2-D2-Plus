@@ -1,0 +1,17 @@
+[0.016s] Invoking command in '/home/easz/r2_ws/build/r6_d9': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/easz/r2_ws/src/r6_d9 -DCMAKE_INSTALL_PREFIX=/home/easz/r2_ws/install/r6_d9
+[0.031s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.181s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.186s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/symlink_install/install.cmake:43 (_install):
+[0.186s]   _install does not recognize sub-command DIRECTROY
+[0.186s] Call Stack (most recent call first):
+[0.186s]   CMakeLists.txt:13 (install)
+[0.186s] 
+[0.186s] [0m
+[0.186s] -- Found ament_lint_auto: 0.12.5 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.269s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.269s] -- Added test 'lint_cmake' to check CMake code style
+[0.269s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.270s] -- Added test 'xmllint' to check XML markup files
+[0.272s] -- Configuring incomplete, errors occurred!
+[0.272s] See also "/home/easz/r2_ws/build/r6_d9/CMakeFiles/CMakeOutput.log".
+[0.276s] Invoked command in '/home/easz/r2_ws/build/r6_d9' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/easz/r2_ws/src/r6_d9 -DCMAKE_INSTALL_PREFIX=/home/easz/r2_ws/install/r6_d9

@@ -1,0 +1,2 @@
+Invoking command in '/home/easz/r2_ws/build/r6_d9': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/easz/r2_ws/src/r6_d9 -DCMAKE_INSTALL_PREFIX=/home/easz/r2_ws/install/r6_d9
+Invoked command in '/home/easz/r2_ws/build/r6_d9' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/easz/r2_ws/src/r6_d9 -DCMAKE_INSTALL_PREFIX=/home/easz/r2_ws/install/r6_d9

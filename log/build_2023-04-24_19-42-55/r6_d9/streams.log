@@ -1,0 +1,24 @@
+[0.025s] Invoking command in '/home/easz/r2_ws/build/r6_d9': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/easz/r2_ws/build/r6_d9 -- -j4 -l4
+[0.060s] Invoked command in '/home/easz/r2_ws/build/r6_d9' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/easz/r2_ws/build/r6_d9 -- -j4 -l4
+[0.092s] Invoking command in '/home/easz/r2_ws/build/r6_d9': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/easz/r2_ws/build/r6_d9
+[0.098s] -- Install configuration: ""
+[0.100s] -- Execute custom install script
+[0.101s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/launch/rsp.launch.py
+[0.102s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/description/robot.urdf.xacro
+[0.103s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/description/robot_core.xacro
+[0.104s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/ament_index/resource_index/package_run_dependencies/r6_d9
+[0.105s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/ament_index/resource_index/parent_prefix_path/r6_d9
+[0.109s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/environment/ament_prefix_path.sh
+[0.110s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/environment/ament_prefix_path.dsv
+[0.111s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/environment/path.sh
+[0.111s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/environment/path.dsv
+[0.111s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/local_setup.bash
+[0.112s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/local_setup.sh
+[0.112s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/local_setup.zsh
+[0.112s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/local_setup.dsv
+[0.112s] -- Symlinking: /home/easz/r2_ws/install/r6_d9/share/r6_d9/package.dsv
+[0.123s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/ament_index/resource_index/packages/r6_d9
+[0.123s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/cmake/r6_d9Config.cmake
+[0.123s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/cmake/r6_d9Config-version.cmake
+[0.123s] -- Up-to-date symlink: /home/easz/r2_ws/install/r6_d9/share/r6_d9/package.xml
+[0.128s] Invoked command in '/home/easz/r2_ws/build/r6_d9' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/easz/r2_ws/build/r6_d9

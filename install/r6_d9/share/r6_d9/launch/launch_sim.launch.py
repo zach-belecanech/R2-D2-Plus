@@ -1,0 +1,1 @@
+/home/easz/r2_ws/src/r6_d9/launch/launch_sim.launch.py
